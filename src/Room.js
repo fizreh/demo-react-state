@@ -30,7 +30,7 @@ console.log("ON Button");
 setLit(true);}}>ON</button>
 <button onClick={()=>{
 console.log("OFF Button");
-setLit(false);}}>OF</button>
+setLit(false);}}>OFF</button>
 <br/>
 </div>
 );
